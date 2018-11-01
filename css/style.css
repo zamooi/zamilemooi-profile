@@ -1,0 +1,67 @@
+body {
+  background: #25343F;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-style: bold;
+}
+
+h2{
+  text-align: center;
+    font-style: bold;
+}
+
+h3{
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"
+}
+
+body {
+  font-family: "Open Sans"
+}
+
+/*.down{
+  padding: 40px;
+}*/
+
+a {
+  color: #fff;
+  text-decoration: none;
+  padding: 20px; text-decoration: none;
+}
+
+nav{
+  padding: 40px;
+  text-align: center;
+  color: black;
+  position: center;
+}
+
+.nav2{
+  padding: 20px;
+  text-align: center;
+  color: black;
+  background: #25343F;
+  position: center;
+  font-style: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.zamile{
+	width:40%;
+	height: auto;
+	margin: 0 auto;
+	display: flex;
+}
+
+.img-grid{
+/*	display: inline-block;
+*/	width: 40%;
+	height: auto;
+}
